@@ -224,4 +224,6 @@
 [pull]
 	rebase = false
 [http]
-	postBuffer = 157286400
+	postBuffer = 52428800
+[pack]
+	window = 1
